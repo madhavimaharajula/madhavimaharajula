@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#00BFFF;">Maharajula Madhavi</span></h1>
-<h3 align="center">IT Undergrad | Web Developer | Python Learner | Cloud Enthusiast</h3>
+<h3 align="center">IT Undergrad • Web Developer • Python Learner • Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;Python+Coder+%E2%9C%A8;Cloud+Explorer+%E2%98%81%EF%B8%8F;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer+💻;Python+Coder+✨;Cloud+Explorer+☁️;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,67 +11,72 @@
 
 ---
 
-## 🧑‍🎓 About Me
+## 🧑‍💻 About Me
 
-- 🎓 B.Tech in IT @ Vignan Institute of Engineering for Women (JNTU-GV)  
-- 🔭 Passionate about building **clean, user-friendly web applications**
-- 🌱 Currently learning **advanced JavaScript** and **Python for Data Science**
-- 🌐 Building a personal portfolio using GitHub Pages  
-- 📫 Email: [madhavimaharajula123@gmail.com](mailto:madhavimaharajula123@gmail.com)
+- 🎓 B.Tech in Information Technology @ **Vignan Institute of Engineering for Women (JNTU-GV)**
+- 🌟 Passionate about building **clean, responsive & user-centric web applications**
+- 🌱 Currently learning: **Advanced JavaScript**, **Python for Data Science**, and exploring **Cloud Technologies**
+- 💼 Creating a personal portfolio on **GitHub Pages**
+- 📬 Reach me at: [madhavimaharajula123@gmail.com](mailto:madhavimaharajula123@gmail.com)
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,java,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects Showcase
 
 | 🚀 Project | 💡 Description |
 |-----------|----------------|
-| 🌱 [Soil Wisdom](https://github.com/madhavimaharajula/csp) | Web app that recommends fertilizers based on soil type |
-| 🖼️ Image Compression | Python project that compresses images using K-means clustering |
+| 🌱 [Soil Wisdom](https://github.com/madhavimaharajula/csp) | Smart web app recommending fertilizers based on soil properties |
+| 🖼️ Image Compression | Python-based image compressor using **K-means Clustering** |
 
 ---
 
 ## 🏅 Certifications
 
-- 💻 Full Stack Web Development - *ExcelR*
-- 🐍 Python Basics & Packages - *Great Learning* / *Infosys*
-- 📊 R Programming for Data Science - *EDX*
+- 💻 **Full Stack Web Development** – *ExcelR*
+- 🐍 **Python Basics & Packages** – *Great Learning*, *Infosys Springboard*
+- 📊 **R Programming for Data Science** – *EDX*
 
 ---
 
-## 🎯 Achievements
+## 🏆 Achievements
 
-- 🥇 1st Prize in Cricket at Yuvtarang National Youth Fest
-- 🏆 1st Prize in Ganesh Idol Creation – Cultural Fest
+- 🥇 **1st Prize in Cricket** – *Yuvtarang National Youth Festival*
+- 🏆 **1st Prize in Ganesh Idol Creation** – *Cultural Fest*
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavi&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavi&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhavi&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavi&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavi&theme=react-dark&bg_color=1a1b27&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:madhavimaharajula123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/madhavi-m-435baa288"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/madhavi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:madhavimaharajula123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/madhavi-m-435baa288"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/madhavi"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  🌟 *Thanks for stopping by! Let's build something amazing.*  
+  🌟 *Thanks for stopping by! Let’s innovate and build something impactful together.*  
 </p>
+
